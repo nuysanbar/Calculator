@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(224, 245, 238);
+}
+.calculator{
+    width: 233px;
+    margin:30px auto;
+    padding:10px;
+    background-color: rgb(162, 196, 184);
+}
+.results{
+    line-height: 3rem;
+    width: 95%;
+    font-weight: 900;
+}
+.numbers{
+    font-weight: 900;
+    padding:20px;
+    margin:5px 2px;
+}
+.numbers:hover{
+    background-color: rgb(197, 193, 193);
+}
